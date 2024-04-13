@@ -1,7 +1,7 @@
 
 
-### About me  
-### <div align="center">I'm Hussain, an analytical data science professional skilled in data analysis, machine learning, and data engineering.
+## About me  
+## <div align="center">I'm Hussain, an analytical data science professional skilled in data analysis, machine learning, and data engineering.
 
 </div>  
   
