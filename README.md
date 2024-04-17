@@ -1,7 +1,7 @@
 
 
 About me  
-<div align="left">I'm Hussain, an analytical data science professional skilled in data analysis, machine learning, and data engineering.
+<div align="left">I'm Hussain. I'm passionate about working with data. Collecting, transforming, and gaining insights from data are activities I truly enjoy.
 
 </div>  
   
