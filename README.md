@@ -22,6 +22,5 @@ Hi there,
 <b>
 ![contact me?](https://github.com/mhadeli/mhadeli/assets/58530203/4e584378-fd45-47de-a210-e0fd2b42c4ba)
 
-  
-[![Visit my LinkTree](https://static.thenounproject.com/png/4575817-200.png)](https://linktr.ee/hadeli)
+
 <b/>
