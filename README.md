@@ -21,5 +21,7 @@ Hi there,
 
 <b>
 Want to contact me?
+  
 [![Visit my LinkTree](https://static.thenounproject.com/png/4575817-200.png)](https://linktr.ee/hadeli)
+
 <b/>
