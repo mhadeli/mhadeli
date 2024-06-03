@@ -21,7 +21,7 @@ Hi there,
 
 <b>
 Want to contact me?
-  
+<b/>
 [![Visit my LinkTree](https://cdn-icons-png.flaticon.com/128/3771/3771518.png)](https://linktr.ee/hadeli)
 
-<b/>
+
