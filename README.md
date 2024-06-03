@@ -12,7 +12,7 @@ I'm Hussain. I'm passionate about working with data. Collecting, transforming, a
 
 <br/>
 
-**I am on different platforms. Click to choose how you want to contact me:**
+I am on different platforms. Click to choose how you want to contact me:
 <br/>
 
 [![Visit my LinkTree](https://cdn-icons-png.flaticon.com/128/3771/3771518.png)](https://linktr.ee/hadeli)
