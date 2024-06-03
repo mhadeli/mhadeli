@@ -22,6 +22,6 @@ Hi there,
 <b>
 Want to contact me?
   
-[![Visit my LinkTree](https://c3.klipartz.com/pngpicture/964/379/sticker-png-ios-7-30-icons-png-ico-contacts.png)](https://linktr.ee/hadeli)
+[![Visit my LinkTree](https://cdn-icons-png.flaticon.com/128/3771/3771518.png)](https://linktr.ee/hadeli)
 
 <b/>
