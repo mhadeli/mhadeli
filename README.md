@@ -23,6 +23,5 @@ Hi there,
 Want to contact me?
   
 [![Visit my LinkTree]([https://static.thenounproject.com/png/4575817-200.png](https://c3.klipartz.com/pngpicture/964/379/sticker-png-ios-7-30-icons-png-ico-contacts.png))](https://linktr.ee/hadeli)
-[![Visit my LinkTree]()](https://linktr.ee/hadeli)
 
 <b/>
