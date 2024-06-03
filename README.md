@@ -24,5 +24,3 @@ I am on different platforms. Click to choose how you want to contact me:
 <b><b/>
   
 [![Visit my LinkTree](https://cdn-icons-png.flaticon.com/128/3771/3771518.png)](https://linktr.ee/hadeli)
-
-
