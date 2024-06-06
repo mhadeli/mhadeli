@@ -18,10 +18,10 @@ With a robust background in data management and analysis, I have contributed to 
 - **Project Management**: PRINCE2, Agile methodologies
 
 ## 📚 Education and Certifications
-  - MSc in Data Science, AI, and Digital Business
-  - BA in Business Administration
+  - **MSc in Data Science, AI, and Digital Business**
+  - **BA in Business Administration**
 
-  -  Deep Learning Specialization, DeepLearning.AI
+  - Deep Learning Specialization, DeepLearning.AI
   - Machine Learning Specialization, DeepLearning.AI
   - PRINCE2, APMG International
 
