@@ -10,13 +10,6 @@ With a robust background in data management and analysis, I have contributed to 
 - **Optimizing data processes**: Developing and fine-tuning SQL queries and ETL pipelines to ensure data quality and integrity.
 - **Predictive analytics**: Building predictive models to forecast demand and optimize resource allocation, reducing waste and improving efficiency.
 
-## 🌱 Skills and Expertise
-- **Data Analysis & Visualization**: Power BI, Tableau, Plotly, Matplotlib, Seaborn
-- **Data Engineering**: SQL, ETL, Azure SQL Server, Apache Spark, Apache Kafka, Apache Airflow, AWS Glue, Microsoft Azure Data Factory
-- **Machine Learning & AI**: Python, R, Predictive Modeling, Deep Learning
-- **GIS & Spatial Analysis**: GIS software for mapping and spatial data analysis
-- **Project Management**: PRINCE2, Agile methodologies
-
 ## 📚 Education and Certifications
   - **MSc in Data Science, AI, and Digital Business**
   - **BA in Business Administration**
