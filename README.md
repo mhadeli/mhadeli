@@ -18,8 +18,8 @@ With a robust background in data management and analysis, I have contributed to 
 - **Project Management**: PRINCE2, Agile methodologies
 
 ## 📚 Education and Certifications
-[![MSc in Data Science, AI, and Digital Business](https://img.shields.io/badge/MSc-Data%20Science%2C%20AI%2C%20and%20Digital%20Business-blue?style=for-the-badge)](https://www.gisma.com/programmes/postgraduate/data-science-ai-and-digital-business)
-[![BA in Business Administration](https://img.shields.io/badge/BA-Business%20Administration-blue?style=for-the-badge)](https://www.example.com)
+[![MSc in Data Science, AI, and Digital Business](https://img.shields.io/badge/MSc-Data%20Science%2C%20AI%2C%20and%20Digital%20Business-blue?style=for-the-badge)](https://www.gisma.com/programmes/postgraduate/msc-data-science-ai-and-digital-business)
+[![BA in Business Administration](https://www.bakhtar.online/faculty-of-economics)](https://www.bakhtar.online/faculty-of-economics)
 
 
 ## 💻 My Tech Stack: 
