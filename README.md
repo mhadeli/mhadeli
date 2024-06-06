@@ -13,6 +13,3 @@ I'm Hussain. I'm passionate about working with data. Collecting, transforming, a
 
 <!-- real time -->
 [![Moon.svg](https://moon-svg.minung.dev/moon.svg?theme=basic)](https://moon-svg.minung.dev)
-
-<!-- specific date -->
-[![Moon.svg](https://moon-svg.minung.dev/moon.svg?date=2022-03-24&theme=basic)](https://moon-svg.minung.dev)
