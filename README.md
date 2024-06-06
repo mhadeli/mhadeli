@@ -14,4 +14,4 @@ I'm Hussain. I'm passionate about working with data. Collecting, transforming, a
 <!-- real time -->
 [![Moon.svg](https://moon-svg.minung.dev/moon.svg?theme=basic)](https://moon-svg.minung.dev)
 
-[![Hussain's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mhadeli)](https://github.com/mhadeli/github-readme-activity-graph)
+[![Hussain's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mhadeli&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/mhadeli/github-readme-activity-graph)
