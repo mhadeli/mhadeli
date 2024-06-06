@@ -27,8 +27,9 @@ I hold an MSc in Data Science, AI, and Digital Business from GISMA University of
 - [LinkedIn](https://www.linkedin.com/in/hadeli)
 
 Feel free to explore my repositories and projects. I'm always open to collaboration and knowledge sharing. Let's connect and innovate together!
+
 Thank you for visiting my GitHub profile.
 
-<br><br/>
+## My GitHub Status
 [![Hussain's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mhadeli&theme=minimal)](https://github.com/mhadeli/github-readme-activity-graph)
 
