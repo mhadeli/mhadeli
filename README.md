@@ -32,4 +32,4 @@ With a robust background in data management and analysis, I have contributed to 
 ## 
 Feel free to explore my repositories and projects. I'm always open to collaboration and knowledge sharing. Let's connect and innovate together!
 
-Thank you for visiting my GitHub profile. 🙏 
+Thank you for visiting my GitHub profile. **🙏**
