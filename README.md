@@ -19,6 +19,7 @@ With a robust background in data management and analysis, I have contributed to 
 
 ## 📚 Education and Certifications
 [MSc in Data Science, AI, and Digital Business](https://www.gisma.com/programmes/postgraduate/data-science-ai-and-digital-business)
+
 [BA in Business Administration](https://www.bakhtar.online/faculty-of-economics)
 
 
