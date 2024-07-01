@@ -2,7 +2,7 @@
 Welcome to my GitHub profile! I am a data enthusiast and professional with a passion for transforming raw data into actionable insights. With experience across various international organizations, I specialize in data analysis, engineering, and visualization, driving data-driven decision-making and enhancing operational efficiency.
 
 ## 🔭 Current Focus
-I'm currently working on semantic search, exploring advanced techniques to improve search accuracy and relevance. My goal is to leverage data science and AI to create innovative solutions that have a real-world impact.
+I am currently working on clustering, focusing on grouping data points into meaningful clusters based on their similarities.
 
 ## 💼 Professional Background
 With a robust background in data management and analysis, I have contributed to several high-impact projects, including:
