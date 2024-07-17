@@ -6,9 +6,11 @@ I am currently working on clustering, focusing on grouping data points into mean
 
 ## 💼 Professional Background
 With a robust background in data management and analysis, I have contributed to several high-impact projects, including:
-- **Designing scalable data models**: Implementing efficient data solutions in Power BI and other visualization tools to provide deep business insights.
-- **Optimizing data processes**: Developing and fine-tuning SQL queries and ETL pipelines to ensure data quality and integrity.
-- **Predictive analytics**: Building predictive models to forecast demand and optimize resource allocation, reducing waste and improving efficiency.
+- **Data Modeling and Engineering**: Designing scalable data models to implement efficient data solutions and developing and refining SQL queries and ETL pipelines to ensure data quality and integrity.
+- **Data Visualization**: Utilizing Power BI and other visualization tools to present complex data in an understandable and actionable format.
+- **Predictive Analytics and Time Series Forecasting**: Building and fine-tuning predictive models to forecast demand and optimize resource allocation.
+- **Recommendation Systems**: Developing recommendation systems to enhance user experience and drive engagement.
+- **Natural Language Processing (NLP)**: Applying NLP techniques to extract meaningful information from unstructured data.
 
 ## 📚 Education and Certifications
   - **MSc in Data Science, AI, and Digital Business**
