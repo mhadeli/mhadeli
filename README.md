@@ -18,4 +18,6 @@ With 9+ years across nonprofit, tech, and international development, I specializ
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hadeli) [![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/hadeli)
 
+---
+
 I’m open to collaborating on AI-driven analytics, marketing optimization, and impact-focused data initiatives.
