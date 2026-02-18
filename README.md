@@ -1,16 +1,52 @@
-# Hi there, I'm Hussain 👋
-I’m a data enthusiast who loves working with messy, "real-world data". Turning scattered and imperfect data into clear insights that support decision-making is my bread and butter. I enjoy working with tabular data, time series, and computer vision problems.
+# Hi, I’m Hussain 👋  
+Data Scientist | AI/ML | Marketing Analytics | Predictive Modeling  
+
+I build production-ready machine learning systems that turn complex, messy real-world data into measurable business impact.  
+
+With 9+ years across nonprofit, tech, and international development, I specialize in:
+
+- 📊 Predictive Modeling & Propensity Scoring  
+- 🎯 Marketing & Donor Analytics  
+- 🔁 Experimentation & A/B Testing  
+- 🤖 LLM & GenAI Applications  
+- 🏗 Data Engineering & Scalable Analytics Pipelines  
+- 📈 BI, Dashboarding & Executive Reporting  
+
+---
+
+## 🔬 What I Work On
+
+- Multi-channel recommendation systems  
+- Churn prediction & supporter segmentation  
+- Time-series forecasting & marketing mix modeling  
+- Attribution modeling & performance analytics  
+- LLM agents for analytics automation  
+
+---
+
+## 🛠 Tech Stack
+
+**Languages:** Python, SQL, R  
+**ML/DL:** TensorFlow, PyTorch, Scikit-learn  
+**Data:** BigQuery, PostgreSQL, SQL Server  
+**Cloud:** GCP, Azure  
+**BI:** Power BI, Tableau  
+**MLOps:** MLflow, Model Monitoring  
+
+---
+
+## 📌 Featured Projects
+
+- 🔹 Channel Recommendation System – Multi-class ML for campaign optimization  
+- 🔹 Churn Prediction – End-to-end modeling pipeline with feature engineering  
+- 🔹 LLM Analytics Agent – Automating insights generation  
 
 
-## 🌐 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hadeli)
-[![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/hadeli)
+---
 
+## 🌍 Let’s Connect
 
-## 🧑‍💻 My GitHub Status
-[![Hussain's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mhadeli&theme=minimal)](https://github.com/mhadeli/github-readme-activity-graph)
+[LinkedIn](https://www.linkedin.com/in/hadeli)  
+[Linktree](https://linktr.ee/hadeli)
 
-## 
-Feel free to explore my repositories and projects. I'm always open to collaboration and knowledge sharing. Let's connect and innovate together!
-
-Thank you for visiting my GitHub profile. **🙏**
+I’m open to collaborating on AI-driven analytics, marketing optimization, and impact-focused data initiatives.
