@@ -53,6 +53,6 @@ I design and ship machine learning systems end to end; from statistical modeling
 
 <div align="center">
 
-Open to collaboration on customer analytics, NLP/RAG systems, time-series forecasting, and applied AI.
+*Happy to collaborate – and to volunteer data science for causes that matter.*
 
 </div>
